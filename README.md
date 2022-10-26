@@ -2,7 +2,7 @@
 - 👀 I’m Fullstack Developer
 - 🌱 I’m currently learning Development
 - 💞️ I’m looking to collaborate on React Projects
-- 📫 How to reach me 
+- 📫 How to reach me: akshay.webllisto@gmail.com
 
 <!---
 akshayDatacode/akshayDatacode is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
